@@ -1,0 +1,52 @@
+body {
+	margin:0;
+}
+.container {
+	padding:65px 379px 100px 379px;
+	
+}
+.google-name {
+	text-align:center;
+	margin:0;
+	font-size:90px;
+	font-weight:bold;
+	font-family:sand-serif;
+	
+}
+.G {
+	color:#3498db;
+}
+.o-1 {
+	color:red;
+}
+.o-2 {
+	color:#f9ca24
+}
+.g {
+	color:#3498db;
+}
+.l {
+	color:green;
+}
+.e {
+	color:red;
+}
+.search-box {
+	text-align:center;
+	width:100%;
+	margin-top:32px;
+}
+.search-box form input {
+	padding:10px 270px 10px 20px;
+	font-size:17px;
+	border-radius:35px;
+	border:2px ridge #dfe6e9;
+	
+}
+
+
+
+
+
+
+
